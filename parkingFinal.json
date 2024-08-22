@@ -1,0 +1,65 @@
+[
+    {
+        "parkingTown": "東京都江東区",
+        "parkingTitle": "東陽二丁目駐車場",
+        "parkingLatitude": 35.66746,
+        "parkingLongitude": 139.8171,
+        "parkingInfo": "月極駐車場に空きがある場合、申込受付を随時行っています。月極利用条件：（1）東陽二丁目駐車場から半径2km以内にお住まいの区民の方（2）車の名義人が本人であること（法人契約は不可、ローンは可）（3）車の大きさが全長5m、全幅2m、全高2m以内",
+        "parkingCarType": "普通自動車・小型自動車・軽自動車（二輪車・トラックは除く）",
+        "parkingPhone": null
+    },
+    {
+        "parkingTown": "東京都台東区",
+        "parkingTitle": "今戸駐車場",
+        "parkingLatitude": 35.72229,
+        "parkingLongitude": 139.8074,
+        "parkingInfo": null,
+        "parkingCarType": null,
+        "parkingPhone": "03-3872-4379"
+    },
+    {
+        "parkingTown": "東京都台東区",
+        "parkingTitle": "雷門地下駐車場",
+        "parkingLatitude": 35.71034,
+        "parkingLongitude": 139.7962,
+        "parkingInfo": null,
+        "parkingCarType": null,
+        "parkingPhone": "03-5827-5660"
+    },
+    {
+        "parkingTown": "東京都台東区",
+        "parkingTitle": "上野中央通り地下駐車場",
+        "parkingLatitude": 35.71018,
+        "parkingLongitude": 139.7734,
+        "parkingInfo": null,
+        "parkingCarType": null,
+        "parkingPhone": "03-5812-3695"
+    },
+    {
+        "parkingTown": "東京都台東区",
+        "parkingTitle": "上野駅前自動二輪車駐車場",
+        "parkingLatitude": 35.71199,
+        "parkingLongitude": 139.7776,
+        "parkingInfo": null,
+        "parkingCarType": null,
+        "parkingPhone": "（5812）4379"
+    },
+    {
+        "parkingTown": "東京都台東区",
+        "parkingTitle": "清川駐車場（観光バス専用）",
+        "parkingLatitude": 35.72812,
+        "parkingLongitude": 139.8046,
+        "parkingInfo": null,
+        "parkingCarType": null,
+        "parkingPhone": "03-3871-6882"
+    },
+    {
+        "parkingTown": "東京都台東区",
+        "parkingTitle": "台東区民会館駐車場",
+        "parkingLatitude": 35.71439,
+        "parkingLongitude": 139.7987,
+        "parkingInfo": null,
+        "parkingCarType": null,
+        "parkingPhone": "03-3841-5742"
+    }
+]

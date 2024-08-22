@@ -1,0 +1,202 @@
+[
+    {
+        "libraryTown": "江東区",
+        "libraryName": "江東図書館",
+        "libraryLatitude": 35.67187,
+        "libraryLongitude": 139.834,
+        "libraryWifi": 1,
+        "libraryPriorityParking": 1,
+        "libraryDate": "月火水木金土日,09:00,20:00,日曜日・祝日・休日・12/28は19時まで。毎月第3金曜日（祝日・休日の場合はその月の第3木曜日）及び1/4、年末年始（12/29～1/3）は休館（他に4日程度特別整理期間で休館あり）",
+        "libraryPhone": "(03)3640-3151"
+    },
+    {
+        "libraryTown": "江東区",
+        "libraryName": "深川図書館",
+        "libraryLatitude": 35.67932,
+        "libraryLongitude": 139.797,
+        "libraryWifi": 1,
+        "libraryPriorityParking": 1,
+        "libraryDate": "月火水木金土日,09:00,20:00,日曜日・祝日・休日・12/28は19時まで。毎月第3金曜日（祝日・休日の場合はその月の第3木曜日）及び1/4、年末年始（12/29～1/3）は休館（他に3日程度特別整理期間で休館あり）",
+        "libraryPhone": "(03)3641-0062"
+    },
+    {
+        "libraryTown": "江東区",
+        "libraryName": "東陽図書館",
+        "libraryLatitude": 35.66736,
+        "libraryLongitude": 139.817,
+        "libraryWifi": 1,
+        "libraryPriorityParking": 1,
+        "libraryDate": "月火水木金土日,09:00,21:00,日曜日・祝日・休日・12/28は19時まで。毎月第3金曜日（祝日・休日の場合はその月の第3木曜日）及び1/4、年末年始（12/29～1/3）は休館（他に3日程度特別整理期間で休館あり）",
+        "libraryPhone": "(03)3644-6121"
+    },
+    {
+        "libraryTown": "江東区",
+        "libraryName": "豊洲図書館",
+        "libraryLatitude": 35.65437,
+        "libraryLongitude": 139.795,
+        "libraryWifi": 1,
+        "libraryPriorityParking": 1,
+        "libraryDate": "月火水木金土日,09:00,21:00,日曜日・祝日・休日・12/28は19時まで。毎月第3金曜日（祝日・休日の場合はその月の第3木曜日）及び1/4、年末年始（12/29～1/3）は休館（他に3日程度特別整理期間で休館あり）",
+        "libraryPhone": ",(03)3536-5931"
+    },
+    {
+        "libraryTown": "江東区",
+        "libraryName": "東雲図書館",
+        "libraryLatitude": 35.64385,
+        "libraryLongitude": 139.805,
+        "libraryWifi": 1,
+        "libraryPriorityParking": 0,
+        "libraryDate": "月火水木金土日,09:00,20:00,日曜日・祝日・休日・12/28は19時まで。毎月第3金曜日（祝日・休日の場合はその月の第3木曜日）及び1/4、年末年始（12/29～1/3）は休館（他に3日程度特別整理期間で休館あり）",
+        "libraryPhone": "(03)3529-1141,"
+    },
+    {
+        "libraryTown": "江東区",
+        "libraryName": "古石場図書館",
+        "libraryLatitude": 35.667,
+        "libraryLongitude": 139.799,
+        "libraryWifi": 1,
+        "libraryPriorityParking": 0,
+        "libraryDate": "月火水木金土日,09:00,20:00,日曜日・祝日・休日・12/28は19時まで。毎月第1・3月曜日（祝日・休日の場合は開館）、第3金曜日（祝日・休日の場合はその月の第3木曜日）及び1/4、年末年始（12/29～1/3）は休館（他に3日程度特別整理期間で休館あり）",
+        "libraryPhone": "(03)5245-3101"
+    },
+    {
+        "libraryTown": "江東区",
+        "libraryName": "城東図書館",
+        "libraryLatitude": 35.68925,
+        "libraryLongitude": 139.827,
+        "libraryWifi": 1,
+        "libraryPriorityParking": 0,
+        "libraryDate": "月火水木金土日,09:00,21:00,日曜日・祝日・休日・12/28は19時まで。毎月第3金曜日（祝日・休日の場合はその月の第3木曜日）及び1/4、年末年始（12/29～1/3）は休館（他に3日程度特別整理期間で休館あり）",
+        "libraryPhone": "(03)3637-2751"
+    },
+    {
+        "libraryTown": "江東区",
+        "libraryName": "亀戸図書館",
+        "libraryLatitude": 35.69731,
+        "libraryLongitude": 139.839,
+        "libraryWifi": 1,
+        "libraryPriorityParking": 0,
+        "libraryDate": "月火水木金土日,09:00,20:00,日曜日・祝日・休日・12/28は19時まで。毎月第3金曜日（祝日・休日の場合はその月の第3木曜日）及び1/4、年末年始（12/29～1/3）は休館（他に3日程度特別整理期間で休館あり）",
+        "libraryPhone": "(03)3636-6061"
+    },
+    {
+        "libraryTown": "江東区",
+        "libraryName": "砂町図書館",
+        "libraryLatitude": 35.68056,
+        "libraryLongitude": 139.832,
+        "libraryWifi": 1,
+        "libraryPriorityParking": 0,
+        "libraryDate": "月火水木金土日,09:00,20:00,日曜日・祝日・休日・12/28は19時まで。毎月第1・3月曜日（祝日・休日の場合は開館）、第3金曜日（祝日・休日の場合はその月の第3木曜日）及び1/4、年末年始（12/29～1/3）は休館（他に3日程度特別整理期間で休館あり）",
+        "libraryPhone": "(03)3640-4646"
+    },
+    {
+        "libraryTown": "江東区",
+        "libraryName": "東大島図書館",
+        "libraryLatitude": 35.69117,
+        "libraryLongitude": 139.846,
+        "libraryWifi": 1,
+        "libraryPriorityParking": 0,
+        "libraryDate": "月火水木金土日,09:00,20:00,日曜日・祝日・休日・12/28は19時まで。毎月第3金曜日（祝日・休日の場合はその月の第3木曜日）及び1/4、年末年始（12/29～1/3）は休館（他に3日程度特別整理期間で休館あり）",
+        "libraryPhone": "(03)3681-4646"
+    },
+    {
+        "libraryTown": "江東区",
+        "libraryName": "枝川図書サービスコーナー",
+        "libraryLatitude": 35.65874,
+        "libraryLongitude": 139.81,
+        "libraryWifi": 0,
+        "libraryPriorityParking": 0,
+        "libraryDate": "火水木金土日,09:00,17:00,毎週月曜日・毎月第3金曜日・祝日・休日・枝川区民館休館日・及び1/4、年末年始（12/29～1/3）は休館",
+        "libraryPhone": "(03)3647-6860"
+    },
+    {
+        "libraryTown": "江東区",
+        "libraryName": "こどもプラザ図書館",
+        "libraryLatitude": 35.68761,
+        "libraryLongitude": 139.812,
+        "libraryWifi": 1,
+        "libraryPriorityParking": 0,
+        "libraryDate": "月火水木金土日,09:00,20:00,日曜日・祝日・休日・12/28は19時まで。毎月第3金曜日（祝日・休日の場合はその月の第3木曜日）及び1/4、年末年始（12/29～1/3）は休館（他に3日程度特別整理期間で休館あり）",
+        "libraryPhone": "(03)5600-3885"
+    },
+    {
+        "libraryTown": "台東区",
+        "libraryName": "すこやかとしょしつ",
+        "libraryLatitude": 139.7815,
+        "libraryLongitude": 35.7146,
+        "libraryWifi": -1,
+        "libraryPriorityParking": -1,
+        "libraryDate": null,
+        "libraryPhone": "03-3847-3087"
+    },
+    {
+        "libraryTown": "台東区",
+        "libraryName": "くらまえオレンジ図書館",
+        "libraryLatitude": 139.7897,
+        "libraryLongitude": 35.70382,
+        "libraryWifi": -1,
+        "libraryPriorityParking": -1,
+        "libraryDate": null,
+        "libraryPhone": "03-3865-3201"
+    },
+    {
+        "libraryTown": "台東区",
+        "libraryName": "石浜図書館",
+        "libraryLatitude": 139.8077,
+        "libraryLongitude": 35.72536,
+        "libraryWifi": -1,
+        "libraryPriorityParking": -1,
+        "libraryDate": null,
+        "libraryPhone": "03-3876-0854"
+    },
+    {
+        "libraryTown": "台東区",
+        "libraryName": "根岸図書館",
+        "libraryLatitude": 139.7905,
+        "libraryLongitude": 35.72916,
+        "libraryWifi": -1,
+        "libraryPriorityParking": -1,
+        "libraryDate": null,
+        "libraryPhone": "03-3876-2101"
+    },
+    {
+        "libraryTown": "台東区",
+        "libraryName": "中央図書館浅草橋分室",
+        "libraryLatitude": 139.7835,
+        "libraryLongitude": 35.69946,
+        "libraryWifi": -1,
+        "libraryPriorityParking": -1,
+        "libraryDate": null,
+        "libraryPhone": "03-3863-0082"
+    },
+    {
+        "libraryTown": "台東区",
+        "libraryName": "中央図書館",
+        "libraryLatitude": 139.7899,
+        "libraryLongitude": 35.71723,
+        "libraryWifi": -1,
+        "libraryPriorityParking": -1,
+        "libraryDate": null,
+        "libraryPhone": "03-5246-5911"
+    },
+    {
+        "libraryTown": "台東区",
+        "libraryName": "台東区立中央図書館 谷中分室",
+        "libraryLatitude": 139.7668,
+        "libraryLongitude": 35.72563,
+        "libraryWifi": -1,
+        "libraryPriorityParking": -1,
+        "libraryDate": null,
+        "libraryPhone": "03-3824-4041"
+    },
+    {
+        "libraryTown": "台東区",
+        "libraryName": "池波正太郎記念文庫",
+        "libraryLatitude": 139.7898,
+        "libraryLongitude": 35.71722,
+        "libraryWifi": -1,
+        "libraryPriorityParking": -1,
+        "libraryDate": null,
+        "libraryPhone": "03-5246-5915"
+    }
+]
