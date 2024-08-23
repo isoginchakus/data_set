@@ -1,7 +1,7 @@
 [
     {
         "lanTown ": "江東区",
-        "lanTown": "江東区役所",
+        "lanName": "江東区役所",
         "lanLatitude": 35.67277,
         "lanLongitude": 139.8173,
         "lanSupplyArea": "2F区民ホール/3Fきっずコーナー",
@@ -12,7 +12,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "男女共同参画推進センター",
+        "lanName": "男女共同参画推進センター",
         "lanLatitude": 35.68415,
         "lanLongitude": 139.8202,
         "lanSupplyArea": "1Fロビー",
@@ -23,7 +23,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "白河出張所",
+        "lanName": "白河出張所",
         "lanLatitude": 35.68288,
         "lanLongitude": 139.8082,
         "lanSupplyArea": "カウンター/災害時職員用",
@@ -34,7 +34,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "富岡出張所",
+        "lanName": "富岡出張所",
         "lanLatitude": 35.671,
         "lanLongitude": 139.8015,
         "lanSupplyArea": "カウンター/災害時職員用",
@@ -45,7 +45,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "小松橋出張所",
+        "lanName": "小松橋出張所",
         "lanLatitude": 35.68283,
         "lanLongitude": 139.8142,
         "lanSupplyArea": "カウンター/災害時職員用",
@@ -56,7 +56,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "亀戸出張所",
+        "lanName": "亀戸出張所",
         "lanLatitude": 35.69751,
         "lanLongitude": 139.8242,
         "lanSupplyArea": "カウンター/災害時職員用",
@@ -67,7 +67,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "大島出張所",
+        "lanName": "大島出張所",
         "lanLatitude": 35.68891,
         "lanLongitude": 139.8265,
         "lanSupplyArea": "カウンター/災害時職員用",
@@ -78,7 +78,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "砂町出張所",
+        "lanName": "砂町出張所",
         "lanLatitude": 35.67741,
         "lanLongitude": 139.8283,
         "lanSupplyArea": "カウンター/災害時職員用",
@@ -89,7 +89,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "南砂出張所",
+        "lanName": "南砂出張所",
         "lanLatitude": 35.67135,
         "lanLongitude": 139.8345,
         "lanSupplyArea": "カウンター/災害時職員用",
@@ -100,7 +100,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "豊洲特別出張所",
+        "lanName": "豊洲特別出張所",
         "lanLatitude": 35.65424,
         "lanLongitude": 139.7954,
         "lanSupplyArea": "カウンター/災害時職員用",
@@ -111,7 +111,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "深川江戸資料館",
+        "lanName": "深川江戸資料館",
         "lanLatitude": 35.6812,
         "lanLongitude": 139.8006,
         "lanSupplyArea": "B1F展示室/1F受付/2F",
@@ -122,7 +122,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "亀戸梅屋敷",
+        "lanName": "亀戸梅屋敷",
         "lanLatitude": 35.70148,
         "lanLongitude": 139.8257,
         "lanSupplyArea": "施設内全域",
@@ -133,7 +133,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "中川船番所資料館",
+        "lanName": "中川船番所資料館",
         "lanLatitude": 35.68767,
         "lanLongitude": 139.8463,
         "lanSupplyArea": "1Fホール/2F展示室/3F展示室/屋外",
@@ -144,7 +144,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "芭蕉記念館",
+        "lanName": "芭蕉記念館",
         "lanLatitude": 35.68613,
         "lanLongitude": 139.794,
         "lanSupplyArea": "1Fホール/2F和室/3F図書室",
@@ -155,7 +155,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "深川東京モダン館",
+        "lanName": "深川東京モダン館",
         "lanLatitude": 35.67409,
         "lanLongitude": 139.7949,
         "lanSupplyArea": "1F展示室/2F多目的スペース",
@@ -166,7 +166,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "青少年交流プラザ",
+        "lanName": "青少年交流プラザ",
         "lanLatitude": 35.69678,
         "lanLongitude": 139.8374,
         "lanSupplyArea": "1Fエントランスホール、2Fロビー",
@@ -177,7 +177,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "江東図書館",
+        "lanName": "江東図書館",
         "lanLatitude": 35.67192,
         "lanLongitude": 139.8341,
         "lanSupplyArea": "2FPCコーナー、ビジネスコーナー",
@@ -188,7 +188,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "深川図書館",
+        "lanName": "深川図書館",
         "lanLatitude": 35.67914,
         "lanLongitude": 139.7968,
         "lanSupplyArea": "2F一般図書室",
@@ -199,7 +199,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "東陽図書館",
+        "lanName": "東陽図書館",
         "lanLatitude": 35.66717,
         "lanLongitude": 139.817,
         "lanSupplyArea": "ビジネスルーム",
@@ -210,7 +210,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "豊洲図書館",
+        "lanName": "豊洲図書館",
         "lanLatitude": 35.65424,
         "lanLongitude": 139.7954,
         "lanSupplyArea": "9F一般図書室、10F一般図書室",
@@ -221,7 +221,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "東雲図書館",
+        "lanName": "東雲図書館",
         "lanLatitude": 35.64356,
         "lanLongitude": 139.8054,
         "lanSupplyArea": "一般図書室",
@@ -232,7 +232,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "古石場図書館",
+        "lanName": "古石場図書館",
         "lanLatitude": 35.66694,
         "lanLongitude": 139.799,
         "lanSupplyArea": "雑誌コーナー",
@@ -243,7 +243,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "城東図書館",
+        "lanName": "城東図書館",
         "lanLatitude": 35.68903,
         "lanLongitude": 139.827,
         "lanSupplyArea": "PCコーナー",
@@ -254,7 +254,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "亀戸図書館",
+        "lanName": "亀戸図書館",
         "lanLatitude": 35.69707,
         "lanLongitude": 139.8393,
         "lanSupplyArea": "2F閲覧室",
@@ -265,7 +265,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "砂町図書館",
+        "lanName": "砂町図書館",
         "lanLatitude": 35.68034,
         "lanLongitude": 139.8321,
         "lanSupplyArea": "ビジネスルーム",
@@ -276,7 +276,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "東大島図書館",
+        "lanName": "東大島図書館",
         "lanLatitude": 35.691,
         "lanLongitude": 139.8458,
         "lanSupplyArea": "ビジネスルーム",
@@ -287,7 +287,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "豊洲公園",
+        "lanName": "豊洲公園",
         "lanLatitude": 35.65319,
         "lanLongitude": 139.7937,
         "lanSupplyArea": "管理棟付近",
@@ -298,7 +298,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "豊洲三丁目公園",
+        "lanName": "豊洲三丁目公園",
         "lanLatitude": 35.65804,
         "lanLongitude": 139.797,
         "lanSupplyArea": "管理棟付近",
@@ -309,7 +309,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "若洲公園",
+        "lanName": "若洲公園",
         "lanLatitude": 35.61865,
         "lanLongitude": 139.8338,
         "lanSupplyArea": "管理棟付近",
@@ -320,7 +320,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "江東文化センター",
+        "lanName": "江東文化センター",
         "lanLatitude": 35.67231,
         "lanLongitude": 139.8189,
         "lanSupplyArea": "カウンター",
@@ -331,7 +331,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "森下文化センター",
+        "lanName": "森下文化センター",
         "lanLatitude": 35.68552,
         "lanLongitude": 139.8022,
         "lanSupplyArea": "カウンター",
@@ -342,7 +342,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "古石場文化センター",
+        "lanName": "古石場文化センター",
         "lanLatitude": 35.66653,
         "lanLongitude": 139.7994,
         "lanSupplyArea": "カウンター",
@@ -353,7 +353,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "豊洲文化センター",
+        "lanName": "豊洲文化センター",
         "lanLatitude": 35.65424,
         "lanLongitude": 139.7954,
         "lanSupplyArea": "カウンター",
@@ -364,7 +364,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "亀戸文化センター",
+        "lanName": "亀戸文化センター",
         "lanLatitude": 35.69751,
         "lanLongitude": 139.8242,
         "lanSupplyArea": "カウンター",
@@ -375,7 +375,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "東大島文化センター",
+        "lanName": "東大島文化センター",
         "lanLatitude": 35.69007,
         "lanLongitude": 139.8421,
         "lanSupplyArea": "カウンター",
@@ -386,7 +386,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "砂町文化センター",
+        "lanName": "砂町文化センター",
         "lanLatitude": 35.68062,
         "lanLongitude": 139.8313,
         "lanSupplyArea": "カウンター",
@@ -397,7 +397,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "総合区民センター",
+        "lanName": "総合区民センター",
         "lanLatitude": 35.68891,
         "lanLongitude": 139.8265,
         "lanSupplyArea": "カウンター",
@@ -408,7 +408,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "ティアラこうとう",
+        "lanName": "ティアラこうとう",
         "lanLatitude": 35.68902,
         "lanLongitude": 139.8194,
         "lanSupplyArea": "カウンター",
@@ -419,7 +419,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "健康センター",
+        "lanName": "健康センター",
         "lanLatitude": 35.66569,
         "lanLongitude": 139.8138,
         "lanSupplyArea": "カウンター",
@@ -430,7 +430,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "スポーツ会館",
+        "lanName": "スポーツ会館",
         "lanLatitude": 35.68409,
         "lanLongitude": 139.8218,
         "lanSupplyArea": "カウンター",
@@ -441,7 +441,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "深川スポーツセンター",
+        "lanName": "深川スポーツセンター",
         "lanLatitude": 35.67012,
         "lanLongitude": 139.7915,
         "lanSupplyArea": "カウンター",
@@ -452,7 +452,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "亀戸スポーツセンター",
+        "lanName": "亀戸スポーツセンター",
         "lanLatitude": 35.69989,
         "lanLongitude": 139.8366,
         "lanSupplyArea": "カウンター",
@@ -463,7 +463,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "有明スポーツセンター",
+        "lanName": "有明スポーツセンター",
         "lanLatitude": 35.63448,
         "lanLongitude": 139.7843,
         "lanSupplyArea": "カウンター",
@@ -474,7 +474,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "東砂スポーツセンター",
+        "lanName": "東砂スポーツセンター",
         "lanLatitude": 35.67925,
         "lanLongitude": 139.8385,
         "lanSupplyArea": "カウンター",
@@ -485,7 +485,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "深川北スポーツセンター",
+        "lanName": "深川北スポーツセンター",
         "lanLatitude": 35.67621,
         "lanLongitude": 139.8048,
         "lanSupplyArea": "カウンター",
@@ -496,7 +496,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "明治小学校",
+        "lanName": "明治小学校",
         "lanLatitude": 35.6762,
         "lanLongitude": 139.7978,
         "lanSupplyArea": "昇降口/屋内運動場入口（災害時用）",
@@ -507,7 +507,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "深川小学校",
+        "lanName": "深川小学校",
         "lanLatitude": 35.68589,
         "lanLongitude": 139.7994,
         "lanSupplyArea": "昇降口/屋内運動場入口（災害時用）",
@@ -518,7 +518,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "八名川小学校",
+        "lanName": "八名川小学校",
         "lanLatitude": 35.68683,
         "lanLongitude": 139.7954,
         "lanSupplyArea": "昇降口/屋内運動場入口（災害時用）",
@@ -529,7 +529,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "臨海小学校",
+        "lanName": "臨海小学校",
         "lanLatitude": 35.67245,
         "lanLongitude": 139.793,
         "lanSupplyArea": "昇降口/屋内運動場入口（災害時用）",
@@ -540,7 +540,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "越中島小学校",
+        "lanName": "越中島小学校",
         "lanLatitude": 35.66605,
         "lanLongitude": 139.7964,
         "lanSupplyArea": "昇降口/屋内運動場入口（災害時用）",
@@ -551,7 +551,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "数矢小学校",
+        "lanName": "数矢小学校",
         "lanLatitude": 35.67259,
         "lanLongitude": 139.7998,
         "lanSupplyArea": "昇降口/屋内運動場入口（災害時用）",
@@ -562,7 +562,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "平久小学校",
+        "lanName": "平久小学校",
         "lanLatitude": 35.66794,
         "lanLongitude": 139.8022,
         "lanSupplyArea": "昇降口/屋内運動場入口（災害時用）",
@@ -573,7 +573,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "東陽小学校",
+        "lanName": "東陽小学校",
         "lanLatitude": 35.67048,
         "lanLongitude": 139.8152,
         "lanSupplyArea": "昇降口/屋内運動場入口（災害時用）",
@@ -584,7 +584,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "南陽小学校",
+        "lanName": "南陽小学校",
         "lanLatitude": 35.66843,
         "lanLongitude": 139.8138,
         "lanSupplyArea": "昇降口/屋内運動場入口（災害時用）",
@@ -595,7 +595,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "川南小学校",
+        "lanName": "川南小学校",
         "lanLatitude": 35.67983,
         "lanLongitude": 139.8167,
         "lanSupplyArea": "昇降口/屋内運動場入口（災害時用）",
@@ -606,7 +606,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "扇橋小学校",
+        "lanName": "扇橋小学校",
         "lanLatitude": 35.68129,
         "lanLongitude": 139.8117,
         "lanSupplyArea": "昇降口/屋内運動場入口（災害時用）",
@@ -617,7 +617,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "元加賀小学校",
+        "lanName": "元加賀小学校",
         "lanLatitude": 35.68201,
         "lanLongitude": 139.808,
         "lanSupplyArea": "昇降口/屋内運動場入口（災害時用）",
@@ -628,7 +628,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "毛利小学校",
+        "lanName": "毛利小学校",
         "lanLatitude": 35.69137,
         "lanLongitude": 139.8163,
         "lanSupplyArea": "昇降口/屋内運動場入口（災害時用）",
@@ -639,7 +639,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "東川小学校",
+        "lanName": "東川小学校",
         "lanLatitude": 35.68829,
         "lanLongitude": 139.8123,
         "lanSupplyArea": "昇降口/屋内運動場入口（災害時用）",
@@ -650,7 +650,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "豊洲小学校",
+        "lanName": "豊洲小学校",
         "lanLatitude": 35.65386,
         "lanLongitude": 139.798,
         "lanSupplyArea": "昇降口/屋内運動場入口（災害時用）",
@@ -661,7 +661,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "豊洲西小学校",
+        "lanName": "豊洲西小学校",
         "lanLatitude": 35.65151,
         "lanLongitude": 139.7955,
         "lanSupplyArea": "昇降口/屋内運動場入口（災害時用）",
@@ -672,7 +672,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "東雲小学校",
+        "lanName": "東雲小学校",
         "lanLatitude": 35.6426,
         "lanLongitude": 139.7992,
         "lanSupplyArea": "昇降口/屋内運動場入口（災害時用）",
@@ -683,7 +683,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "有明小学校",
+        "lanName": "有明小学校",
         "lanLatitude": 35.64011,
         "lanLongitude": 139.7961,
         "lanSupplyArea": "昇降口（災害時用）",
@@ -694,7 +694,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "有明西学園",
+        "lanName": "有明西学園",
         "lanLatitude": 35.63942,
         "lanLongitude": 139.7894,
         "lanSupplyArea": "昇降口/屋内運動場入口（災害時用）",
@@ -705,7 +705,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "枝川小学校",
+        "lanName": "枝川小学校",
         "lanLatitude": 35.65964,
         "lanLongitude": 139.8092,
         "lanSupplyArea": "昇降口/屋内運動場入口（災害時用）",
@@ -716,7 +716,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "辰巳小学校",
+        "lanName": "辰巳小学校",
         "lanLatitude": 35.64652,
         "lanLongitude": 139.81,
         "lanSupplyArea": "昇降口/屋内運動場入口（災害時用）",
@@ -727,7 +727,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "第二辰巳小学校",
+        "lanName": "第二辰巳小学校",
         "lanLatitude": 35.64853,
         "lanLongitude": 139.8084,
         "lanSupplyArea": "昇降口/屋内運動場入口（災害時用）",
@@ -738,7 +738,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "第一亀戸小学校",
+        "lanName": "第一亀戸小学校",
         "lanLatitude": 35.69883,
         "lanLongitude": 139.8222,
         "lanSupplyArea": "昇降口/屋内運動場入口（災害時用）",
@@ -749,7 +749,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "第二亀戸小学校",
+        "lanName": "第二亀戸小学校",
         "lanLatitude": 35.69559,
         "lanLongitude": 139.8306,
         "lanSupplyArea": "昇降口/屋内運動場入口（災害時用）",
@@ -760,7 +760,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "香取小学校",
+        "lanName": "香取小学校",
         "lanLatitude": 35.70386,
         "lanLongitude": 139.8261,
         "lanSupplyArea": "昇降口/屋内運動場入口（災害時用）",
@@ -771,7 +771,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "浅間竪川川小学校",
+        "lanName": "浅間竪川川小学校",
         "lanLatitude": 35.69873,
         "lanLongitude": 139.8417,
         "lanSupplyArea": "昇降口/屋内運動場入口（災害時用）",
@@ -782,7 +782,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "水神小学校",
+        "lanName": "水神小学校",
         "lanLatitude": 35.70003,
         "lanLongitude": 139.8285,
         "lanSupplyArea": "昇降口/屋内運動場入口（災害時用）",
@@ -793,7 +793,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "第一大島小学校",
+        "lanName": "第一大島小学校",
         "lanLatitude": 35.68995,
         "lanLongitude": 139.8256,
         "lanSupplyArea": "昇降口/屋内運動場入口（災害時用）",
@@ -804,7 +804,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "第二大島小学校",
+        "lanName": "第二大島小学校",
         "lanLatitude": 35.69018,
         "lanLongitude": 139.8299,
         "lanSupplyArea": "昇降口/屋内運動場入口（災害時用）",
@@ -815,7 +815,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "第三大島小学校",
+        "lanName": "第三大島小学校",
         "lanLatitude": 35.69259,
         "lanLongitude": 139.8451,
         "lanSupplyArea": "昇降口/屋内運動場入口（災害時用）",
@@ -826,7 +826,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "第四大島小学校",
+        "lanName": "第四大島小学校",
         "lanLatitude": 35.69097,
         "lanLongitude": 139.8344,
         "lanSupplyArea": "昇降口/屋内運動場入口（災害時用）",
@@ -837,7 +837,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "第五大島小学校",
+        "lanName": "第五大島小学校",
         "lanLatitude": 35.68782,
         "lanLongitude": 139.8445,
         "lanSupplyArea": "昇降口/屋内運動場入口（災害時用）",
@@ -848,7 +848,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "大島南央小学校",
+        "lanName": "大島南央小学校",
         "lanLatitude": 35.68723,
         "lanLongitude": 139.8317,
         "lanSupplyArea": "昇降口/屋内運動場入口（災害時用）",
@@ -859,7 +859,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "砂町小学校",
+        "lanName": "砂町小学校",
         "lanLatitude": 35.67748,
         "lanLongitude": 139.829,
         "lanSupplyArea": "昇降口/屋内運動場入口（災害時用）",
@@ -870,7 +870,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "第二砂町小学校",
+        "lanName": "第二砂町小学校",
         "lanLatitude": 35.67493,
         "lanLongitude": 139.8388,
         "lanSupplyArea": "昇降口/屋内運動場入口（災害時用）",
@@ -881,7 +881,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "第三砂町小学校",
+        "lanName": "第三砂町小学校",
         "lanLatitude": 35.67276,
         "lanLongitude": 139.8339,
         "lanSupplyArea": "昇降口/屋内運動場入口（災害時用）",
@@ -892,7 +892,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "第四砂町小学校",
+        "lanName": "第四砂町小学校",
         "lanLatitude": 35.67514,
         "lanLongitude": 139.8217,
         "lanSupplyArea": "昇降口/屋内運動場入口（災害時用）",
@@ -903,7 +903,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "第五砂町小学校",
+        "lanName": "第五砂町小学校",
         "lanLatitude": 35.66705,
         "lanLongitude": 139.8389,
         "lanSupplyArea": "昇降口/屋内運動場入口（災害時用）",
@@ -914,7 +914,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "第六砂町小学校",
+        "lanName": "第六砂町小学校",
         "lanLatitude": 35.68211,
         "lanLongitude": 139.8385,
         "lanSupplyArea": "昇降口/屋内運動場入口（災害時用）",
@@ -925,7 +925,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "第七砂町小学校",
+        "lanName": "第七砂町小学校",
         "lanLatitude": 35.67892,
         "lanLongitude": 139.8421,
         "lanSupplyArea": "昇降口/屋内運動場入口（災害時用）",
@@ -936,7 +936,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "小名木川小学校",
+        "lanName": "小名木川小学校",
         "lanLatitude": 35.6824,
         "lanLongitude": 139.8312,
         "lanSupplyArea": "昇降口/屋内運動場入口（災害時用）",
@@ -947,7 +947,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "東砂小学校",
+        "lanName": "東砂小学校",
         "lanLatitude": 35.68334,
         "lanLongitude": 139.8443,
         "lanSupplyArea": "昇降口/屋内運動場入口（災害時用）",
@@ -958,7 +958,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "北砂小学校",
+        "lanName": "北砂小学校",
         "lanLatitude": 35.68312,
         "lanLongitude": 139.8235,
         "lanSupplyArea": "昇降口/屋内運動場入口（災害時用）",
@@ -969,7 +969,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "南砂小学校",
+        "lanName": "南砂小学校",
         "lanLatitude": 35.67183,
         "lanLongitude": 139.825,
         "lanSupplyArea": "昇降口/屋内運動場入口（災害時用）",
@@ -980,7 +980,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "亀高小学校",
+        "lanName": "亀高小学校",
         "lanLatitude": 35.68498,
         "lanLongitude": 139.8341,
         "lanSupplyArea": "昇降口/屋内運動場入口（災害時用）",
@@ -991,7 +991,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "深川第一中学校",
+        "lanName": "深川第一中学校",
         "lanLatitude": 35.68526,
         "lanLongitude": 139.8058,
         "lanSupplyArea": "昇降口/屋内運動場入口（災害時用）",
@@ -1002,7 +1002,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "深川第二中学校",
+        "lanName": "深川第二中学校",
         "lanLatitude": 35.67629,
         "lanLongitude": 139.8007,
         "lanSupplyArea": "昇降口/屋内運動場入口（災害時用）",
@@ -1013,7 +1013,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "深川第三中学校",
+        "lanName": "深川第三中学校",
         "lanLatitude": 35.66652,
         "lanLongitude": 139.7956,
         "lanSupplyArea": "昇降口/屋内運動場入口（災害時用）",
@@ -1024,7 +1024,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "深川第四中学校",
+        "lanName": "深川第四中学校",
         "lanLatitude": 35.67861,
         "lanLongitude": 139.8129,
         "lanSupplyArea": "昇降口/屋内運動場入口（災害時用）",
@@ -1035,7 +1035,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "深川第五中学校",
+        "lanName": "深川第五中学校",
         "lanLatitude": 35.65241,
         "lanLongitude": 139.7996,
         "lanSupplyArea": "昇降口/屋内運動場入口（災害時用）",
@@ -1046,7 +1046,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "深川第六中学校",
+        "lanName": "深川第六中学校",
         "lanLatitude": 35.67887,
         "lanLongitude": 139.8056,
         "lanSupplyArea": "昇降口/屋内運動場入口（災害時用）",
@@ -1057,7 +1057,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "深川第七中学校",
+        "lanName": "深川第七中学校",
         "lanLatitude": 35.69133,
         "lanLongitude": 139.8137,
         "lanSupplyArea": "昇降口/屋内運動場入口（災害時用）",
@@ -1068,7 +1068,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "深川第八中学校",
+        "lanName": "深川第八中学校",
         "lanLatitude": 35.66474,
         "lanLongitude": 139.8121,
         "lanSupplyArea": "昇降口/屋内運動場入口（災害時用）",
@@ -1079,7 +1079,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "有明中学校",
+        "lanName": "有明中学校",
         "lanLatitude": 35.64011,
         "lanLongitude": 139.7961,
         "lanSupplyArea": "昇降口（災害時用）",
@@ -1090,7 +1090,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "辰巳中学校",
+        "lanName": "辰巳中学校",
         "lanLatitude": 35.64684,
         "lanLongitude": 139.8114,
         "lanSupplyArea": "昇降口/屋内運動場入口（災害時用）",
@@ -1101,7 +1101,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "東陽中学校",
+        "lanName": "東陽中学校",
         "lanLatitude": 35.66677,
         "lanLongitude": 139.8141,
         "lanSupplyArea": "昇降口/屋内運動場入口（災害時用）",
@@ -1112,7 +1112,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "亀戸中学校",
+        "lanName": "亀戸中学校",
         "lanLatitude": 35.69536,
         "lanLongitude": 139.8419,
         "lanSupplyArea": "昇降口/屋内運動場入口（災害時用）",
@@ -1123,7 +1123,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "第二亀戸中学校",
+        "lanName": "第二亀戸中学校",
         "lanLatitude": 35.70262,
         "lanLongitude": 139.8324,
         "lanSupplyArea": "昇降口/屋内運動場入口（災害時用）",
@@ -1134,7 +1134,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "第三亀戸中学校",
+        "lanName": "第三亀戸中学校",
         "lanLatitude": 35.6953,
         "lanLongitude": 139.8217,
         "lanSupplyArea": "昇降口/屋内運動場入口（災害時用）",
@@ -1145,7 +1145,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "大島中学校",
+        "lanName": "大島中学校",
         "lanLatitude": 35.68642,
         "lanLongitude": 139.8399,
         "lanSupplyArea": "昇降口/屋内運動場入口（災害時用）",
@@ -1156,7 +1156,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "第二大島中学校",
+        "lanName": "第二大島中学校",
         "lanLatitude": 35.69165,
         "lanLongitude": 139.8311,
         "lanSupplyArea": "昇降口/屋内運動場入口（災害時用）",
@@ -1167,7 +1167,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "大島西中学校",
+        "lanName": "大島西中学校",
         "lanLatitude": 35.68632,
         "lanLongitude": 139.8277,
         "lanSupplyArea": "昇降口/屋内運動場入口（災害時用）",
@@ -1178,7 +1178,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "砂町中学校",
+        "lanName": "砂町中学校",
         "lanLatitude": 35.68523,
         "lanLongitude": 139.8372,
         "lanSupplyArea": "昇降口/屋内運動場入口（災害時用）",
@@ -1189,7 +1189,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "第二砂町中学校",
+        "lanName": "第二砂町中学校",
         "lanLatitude": 35.66835,
         "lanLongitude": 139.8395,
         "lanSupplyArea": "昇降口/屋内運動場入口（災害時用）",
@@ -1200,7 +1200,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "南砂中学校",
+        "lanName": "南砂中学校",
         "lanLatitude": 35.67331,
         "lanLongitude": 139.8237,
         "lanSupplyArea": "昇降口/屋内運動場入口（災害時用）",
@@ -1211,7 +1211,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "第二南砂中学校",
+        "lanName": "第二南砂中学校",
         "lanLatitude": 35.67816,
         "lanLongitude": 139.8209,
         "lanSupplyArea": "昇降口/屋内運動場入口（災害時用）",
@@ -1222,7 +1222,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "第三砂町中学校",
+        "lanName": "第三砂町中学校",
         "lanLatitude": 35.6702,
         "lanLongitude": 139.8297,
         "lanSupplyArea": "昇降口/屋内運動場入口（災害時用）",
@@ -1233,7 +1233,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "第四砂町中学校",
+        "lanName": "第四砂町中学校",
         "lanLatitude": 35.68471,
         "lanLongitude": 139.8316,
         "lanSupplyArea": "昇降口/屋内運動場入口（災害時用）",
@@ -1244,7 +1244,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "公共サイン亀戸駅東口",
+        "lanName": "公共サイン亀戸駅東口",
         "lanLatitude": 35.69685,
         "lanLongitude": 139.8283,
         "lanSupplyArea": "亀戸駅東口",
@@ -1255,7 +1255,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "公共サイン門前仲町駅",
+        "lanName": "公共サイン門前仲町駅",
         "lanLatitude": 35.67115,
         "lanLongitude": 139.7981,
         "lanSupplyArea": "門前仲町駅1・2出口",
@@ -1266,7 +1266,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "公共サイン東陽町駅",
+        "lanName": "公共サイン東陽町駅",
         "lanLatitude": 35.66984,
         "lanLongitude": 139.8165,
         "lanSupplyArea": "東陽町駅1・2出口",
@@ -1277,7 +1277,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "豊洲北小学校",
+        "lanName": "豊洲北小学校",
         "lanLatitude": 35.65788,
         "lanLongitude": 139.7975,
         "lanSupplyArea": "昇降口/屋内運動場入口（災害時用）",
@@ -1288,7 +1288,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "こどもプラザ",
+        "lanName": "こどもプラザ",
         "lanLatitude": 35.68788,
         "lanLongitude": 139.8126,
         "lanSupplyArea": "1F地域交流スペース/2Fプレイルーム/4F多目的スペース①/4F多目的スペース②/4F会議室①",
@@ -1299,7 +1299,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "江東区役所",
+        "lanName": "江東区役所",
         "lanLatitude": 35.67277,
         "lanLongitude": 139.8173,
         "lanSupplyArea": "2F待合スペース",
@@ -1310,7 +1310,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "豊洲特別出張所",
+        "lanName": "豊洲特別出張所",
         "lanLatitude": 35.65424,
         "lanLongitude": 139.7954,
         "lanSupplyArea": "3F待合スペース/11F区民広場",
@@ -1321,7 +1321,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "深川江戸資料館",
+        "lanName": "深川江戸資料館",
         "lanLatitude": 35.6812,
         "lanLongitude": 139.8006,
         "lanSupplyArea": "1F受付",
@@ -1332,7 +1332,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "中川船番所資料館",
+        "lanName": "中川船番所資料館",
         "lanLatitude": 35.68767,
         "lanLongitude": 139.8463,
         "lanSupplyArea": "1Fホール",
@@ -1343,7 +1343,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "芭蕉記念館",
+        "lanName": "芭蕉記念館",
         "lanLatitude": 35.68613,
         "lanLongitude": 139.794,
         "lanSupplyArea": "1Fホール",
@@ -1354,7 +1354,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "豊洲文化センター",
+        "lanName": "豊洲文化センター",
         "lanLatitude": 35.65424,
         "lanLongitude": 139.7954,
         "lanSupplyArea": "1Fギャラリー/5Fホワイエ/6F楽屋１/7FラウンジA･B/7FレクホールA･B/8F会議室B･C･E/和室",
@@ -1365,7 +1365,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "こどもプラザ図書館",
+        "lanName": "こどもプラザ図書館",
         "lanLatitude": 35.68788,
         "lanLongitude": 139.8126,
         "lanSupplyArea": "1F読書サロン/2F児童図書コーナー/3F図書室",
@@ -1376,7 +1376,7 @@
     },
     {
         "lanTown ": "江東区",
-        "lanTown": "有明こども図書館",
+        "lanName": "有明こども図書館",
         "lanLatitude": 35.63448,
         "lanLongitude": 139.7843,
         "lanSupplyArea": "図書室",
@@ -1387,7 +1387,7 @@
     },
     {
         "lanTown ": "台東区",
-        "lanTown": "下町風俗資料館",
+        "lanName": "下町風俗資料館",
         "lanLatitude": 35.71023,
         "lanLongitude": 139.7727,
         "lanSupplyArea": "1階、2階",
@@ -1398,7 +1398,7 @@
     },
     {
         "lanTown ": "台東区",
-        "lanTown": "下町風俗資料館付設展示場（旧吉田屋酒店）",
+        "lanName": "下町風俗資料館付設展示場（旧吉田屋酒店）",
         "lanLatitude": 35.72135,
         "lanLongitude": 139.7709,
         "lanSupplyArea": "1階",
@@ -1409,7 +1409,7 @@
     },
     {
         "lanTown ": "台東区",
-        "lanTown": "朝倉彫塑館",
+        "lanName": "朝倉彫塑館",
         "lanLatitude": 35.72689,
         "lanLongitude": 139.7685,
         "lanSupplyArea": "1階受付室付近",
@@ -1420,7 +1420,7 @@
     },
     {
         "lanTown ": "台東区",
-        "lanTown": "書道博物館",
+        "lanName": "書道博物館",
         "lanLatitude": 35.72473,
         "lanLongitude": 139.7765,
         "lanSupplyArea": "1階受付室付近",
@@ -1431,7 +1431,7 @@
     },
     {
         "lanTown ": "台東区",
-        "lanTown": "一葉記念館",
+        "lanName": "一葉記念館",
         "lanLatitude": 35.7256,
         "lanLongitude": 139.7928,
         "lanSupplyArea": "1階受付室付近",
@@ -1442,7 +1442,7 @@
     },
     {
         "lanTown ": "台東区",
-        "lanTown": "隅田公園（リバーサイドギャラリー付近）",
+        "lanName": "隅田公園（リバーサイドギャラリー付近）",
         "lanLatitude": 35.71126,
         "lanLongitude": 139.7988,
         "lanSupplyArea": null,
@@ -1453,7 +1453,7 @@
     },
     {
         "lanTown ": "台東区",
-        "lanTown": "隅田公園（案内所付近）",
+        "lanName": "隅田公園（案内所付近）",
         "lanLatitude": 35.71293,
         "lanLongitude": 139.8003,
         "lanSupplyArea": null,
@@ -1464,7 +1464,7 @@
     },
     {
         "lanTown ": "台東区",
-        "lanTown": "隅田公園（公園管理事務所付近）",
+        "lanName": "隅田公園（公園管理事務所付近）",
         "lanLatitude": 35.7147,
         "lanLongitude": 139.8021,
         "lanSupplyArea": null,
@@ -1475,7 +1475,7 @@
     },
     {
         "lanTown ": "台東区",
-        "lanTown": "上野中央通り地下駐車場",
+        "lanName": "上野中央通り地下駐車場",
         "lanLatitude": 35.70999,
         "lanLongitude": 139.7736,
         "lanSupplyArea": "受付事務所付近",
@@ -1486,7 +1486,7 @@
     },
     {
         "lanTown ": "台東区",
-        "lanTown": "雷門地下駐車場",
+        "lanName": "雷門地下駐車場",
         "lanLatitude": 35.71015,
         "lanLongitude": 139.7962,
         "lanSupplyArea": "受付事務所付近",
@@ -1497,7 +1497,7 @@
     },
     {
         "lanTown ": "台東区",
-        "lanTown": "根岸社会教育館",
+        "lanName": "根岸社会教育館",
         "lanLatitude": 35.72924,
         "lanLongitude": 139.7905,
         "lanSupplyArea": "1階受付付近",
@@ -1508,7 +1508,7 @@
     },
     {
         "lanTown ": "台東区",
-        "lanTown": "区役所本庁舎",
+        "lanName": "区役所本庁舎",
         "lanLatitude": 35.71265,
         "lanLongitude": 139.78,
         "lanSupplyArea": "1階",
@@ -1519,7 +1519,7 @@
     },
     {
         "lanTown ": "台東区",
-        "lanTown": "台東リバーサイドスポーツセンター",
+        "lanName": "台東リバーサイドスポーツセンター",
         "lanLatitude": 35.71756,
         "lanLongitude": 139.8046,
         "lanSupplyArea": "1階受付カウンター付近",
@@ -1530,7 +1530,7 @@
     },
     {
         "lanTown ": "台東区",
-        "lanTown": "台東区民会館",
+        "lanName": "台東区民会館",
         "lanLatitude": 35.7145,
         "lanLongitude": 139.7988,
         "lanSupplyArea": "9階事務室付近",
@@ -1541,7 +1541,7 @@
     },
     {
         "lanTown ": "台東区",
-        "lanTown": "環境ふれあい館ひまわり",
+        "lanName": "環境ふれあい館ひまわり",
         "lanLatitude": 35.70382,
         "lanLongitude": 139.7897,
         "lanSupplyArea": "5階事務室付近",
@@ -1552,7 +1552,7 @@
     },
     {
         "lanTown ": "台東区",
-        "lanTown": "谷中防災コミュニティセンター",
+        "lanName": "谷中防災コミュニティセンター",
         "lanLatitude": 35.72562,
         "lanLongitude": 139.7665,
         "lanSupplyArea": "1階ロビー",
@@ -1563,7 +1563,7 @@
     },
     {
         "lanTown ": "台東区",
-        "lanTown": "江戸たいとう伝統工芸館",
+        "lanName": "江戸たいとう伝統工芸館",
         "lanLatitude": 35.71641,
         "lanLongitude": 139.7938,
         "lanSupplyArea": "1階、2階",
@@ -1574,7 +1574,7 @@
     },
     {
         "lanTown ": "台東区",
-        "lanTown": "柳北スポーツプラザ",
+        "lanName": "柳北スポーツプラザ",
         "lanLatitude": 35.69929,
         "lanLongitude": 139.7822,
         "lanSupplyArea": "1階受付カウンター付近",
@@ -1585,7 +1585,7 @@
     },
     {
         "lanTown ": "台東区",
-        "lanTown": "中小企業振興センター",
+        "lanName": "中小企業振興センター",
         "lanLatitude": 35.70593,
         "lanLongitude": 139.7842,
         "lanSupplyArea": "1階受付室付近",
@@ -1596,7 +1596,7 @@
     },
     {
         "lanTown ": "台東区",
-        "lanTown": "台東一丁目区民館",
+        "lanName": "台東一丁目区民館",
         "lanLatitude": 35.70178,
         "lanLongitude": 139.778,
         "lanSupplyArea": "1階受付カウンター付近",
@@ -1607,7 +1607,7 @@
     },
     {
         "lanTown ": "台東区",
-        "lanTown": "東上野区民館",
+        "lanName": "東上野区民館",
         "lanLatitude": 35.71129,
         "lanLongitude": 139.7796,
         "lanSupplyArea": "受付室付近",
@@ -1618,7 +1618,7 @@
     },
     {
         "lanTown ": "台東区",
-        "lanTown": "生涯学習センター",
+        "lanName": "生涯学習センター",
         "lanLatitude": 35.71735,
         "lanLongitude": 139.7899,
         "lanSupplyArea": "1階受付カウンター付近",
@@ -1629,7 +1629,7 @@
     },
     {
         "lanTown ": "台東区",
-        "lanTown": "産業研修センター",
+        "lanName": "産業研修センター",
         "lanLatitude": 35.72404,
         "lanLongitude": 139.8082,
         "lanSupplyArea": "事務室付近",
@@ -1640,7 +1640,7 @@
     },
     {
         "lanTown ": "台東区",
-        "lanTown": "浅草文化観光センター",
+        "lanName": "浅草文化観光センター",
         "lanLatitude": 35.71068,
         "lanLongitude": 139.7965,
         "lanSupplyArea": "地下1階、1階から8階までの各階",
@@ -1651,7 +1651,7 @@
     },
     {
         "lanTown ": "台東区",
-        "lanTown": "隅田公園（山谷堀広場）",
+        "lanName": "隅田公園（山谷堀広場）",
         "lanLatitude": 35.71672,
         "lanLongitude": 139.8037,
         "lanSupplyArea": null,
@@ -1662,7 +1662,7 @@
     },
     {
         "lanTown ": "台東区",
-        "lanTown": "観光案内板（JR上野駅入谷口先）",
+        "lanName": "観光案内板（JR上野駅入谷口先）",
         "lanLatitude": 35.71469,
         "lanLongitude": 139.7787,
         "lanSupplyArea": null,
@@ -1673,7 +1673,7 @@
     },
     {
         "lanTown ": "台東区",
-        "lanTown": "観光案内板（上野広小路かねの鳴るまち入口）",
+        "lanName": "観光案内板（上野広小路かねの鳴るまち入口）",
         "lanLatitude": 35.71115,
         "lanLongitude": 139.7751,
         "lanSupplyArea": null,
@@ -1684,7 +1684,7 @@
     },
     {
         "lanTown ": "台東区",
-        "lanTown": "観光案内板（おかちまちパンダ広場）",
+        "lanName": "観光案内板（おかちまちパンダ広場）",
         "lanLatitude": 35.70686,
         "lanLongitude": 139.7744,
         "lanSupplyArea": null,
@@ -1695,7 +1695,7 @@
     },
     {
         "lanTown ": "台東区",
-        "lanTown": "観光案内板（JR上野駅公園西側道路下）",
+        "lanName": "観光案内板（JR上野駅公園西側道路下）",
         "lanLatitude": 35.71239,
         "lanLongitude": 139.7749,
         "lanSupplyArea": null,
@@ -1706,7 +1706,7 @@
     },
     {
         "lanTown ": "台東区",
-        "lanTown": "観光案内板（生涯学習センター前）",
+        "lanName": "観光案内板（生涯学習センター前）",
         "lanLatitude": 35.71747,
         "lanLongitude": 139.7893,
         "lanSupplyArea": null,
@@ -1717,7 +1717,7 @@
     },
     {
         "lanTown ": "台東区",
-        "lanTown": "観光案内板（吾妻橋詰隅田公園入り口）",
+        "lanName": "観光案内板（吾妻橋詰隅田公園入り口）",
         "lanLatitude": 35.71061,
         "lanLongitude": 139.7982,
         "lanSupplyArea": null,
@@ -1728,7 +1728,7 @@
     },
     {
         "lanTown ": "台東区",
-        "lanTown": "観光案内板（雷門2丁目）",
+        "lanName": "観光案内板（雷門2丁目）",
         "lanLatitude": 35.71072,
         "lanLongitude": 139.7969,
         "lanSupplyArea": null,
@@ -1739,7 +1739,7 @@
     },
     {
         "lanTown ": "台東区",
-        "lanTown": "観光案内板（駒形交差点）",
+        "lanName": "観光案内板（駒形交差点）",
         "lanLatitude": 35.70853,
         "lanLongitude": 139.7958,
         "lanSupplyArea": null,
@@ -1750,7 +1750,7 @@
     },
     {
         "lanTown ": "台東区",
-        "lanTown": "観光案内板（TX浅草駅A1出口前）",
+        "lanName": "観光案内板（TX浅草駅A1出口前）",
         "lanLatitude": 35.71344,
         "lanLongitude": 139.7925,
         "lanSupplyArea": null,
@@ -1761,7 +1761,7 @@
     },
     {
         "lanTown ": "台東区",
-        "lanTown": "観光案内板（TX浅草駅A2出口前）",
+        "lanName": "観光案内板（TX浅草駅A2出口前）",
         "lanLatitude": 35.71402,
         "lanLongitude": 139.7923,
         "lanSupplyArea": null,
@@ -1772,7 +1772,7 @@
     },
     {
         "lanTown ": "台東区",
-        "lanTown": "観光案内板（言問橋西詰）",
+        "lanName": "観光案内板（言問橋西詰）",
         "lanLatitude": 35.71493,
         "lanLongitude": 139.8015,
         "lanSupplyArea": null,
@@ -1783,7 +1783,7 @@
     },
     {
         "lanTown ": "台東区",
-        "lanTown": "観光案内板（浅草高校前交差点）",
+        "lanName": "観光案内板（浅草高校前交差点）",
         "lanLatitude": 35.71923,
         "lanLongitude": 139.8018,
         "lanSupplyArea": null,
@@ -1794,7 +1794,7 @@
     },
     {
         "lanTown ": "台東区",
-        "lanTown": "観光案内板（千束五差路）",
+        "lanName": "観光案内板（千束五差路）",
         "lanLatitude": 35.71852,
         "lanLongitude": 139.7928,
         "lanSupplyArea": null,
@@ -1805,7 +1805,7 @@
     },
     {
         "lanTown ": "台東区",
-        "lanTown": "観光案内板（西浅草3交差点）",
+        "lanName": "観光案内板（西浅草3交差点）",
         "lanLatitude": 35.71729,
         "lanLongitude": 139.7924,
         "lanSupplyArea": null,
@@ -1816,7 +1816,7 @@
     },
     {
         "lanTown ": "台東区",
-        "lanTown": "観光案内板（雷門1丁目交差点（北側））",
+        "lanName": "観光案内板（雷門1丁目交差点（北側））",
         "lanLatitude": 35.71151,
         "lanLongitude": 139.7923,
         "lanSupplyArea": null,
@@ -1827,7 +1827,7 @@
     },
     {
         "lanTown ": "台東区",
-        "lanTown": "観光案内板（雷門1丁目交差点（南側））",
+        "lanName": "観光案内板（雷門1丁目交差点（南側））",
         "lanLatitude": 35.7113,
         "lanLongitude": 139.7923,
         "lanSupplyArea": null,
@@ -1838,7 +1838,7 @@
     },
     {
         "lanTown ": "台東区",
-        "lanTown": "観光案内板（観音通り入口）",
+        "lanName": "観光案内板（観音通り入口）",
         "lanLatitude": 35.71093,
         "lanLongitude": 139.7969,
         "lanSupplyArea": null,
@@ -1849,7 +1849,7 @@
     },
     {
         "lanTown ": "台東区",
-        "lanTown": "観光案内板（花川戸公園乗降場）",
+        "lanName": "観光案内板（花川戸公園乗降場）",
         "lanLatitude": 35.71411,
         "lanLongitude": 139.7987,
         "lanSupplyArea": null,
@@ -1860,7 +1860,7 @@
     },
     {
         "lanTown ": "台東区",
-        "lanTown": "観光案内板（三ノ輪国際通り入り口）",
+        "lanName": "観光案内板（三ノ輪国際通り入り口）",
         "lanLatitude": 35.72875,
         "lanLongitude": 139.7909,
         "lanSupplyArea": null,
@@ -1871,7 +1871,7 @@
     },
     {
         "lanTown ": "台東区",
-        "lanTown": "観光案内板（竜泉1丁目）",
+        "lanName": "観光案内板（竜泉1丁目）",
         "lanLatitude": 35.72456,
         "lanLongitude": 139.7909,
         "lanSupplyArea": null,
@@ -1882,7 +1882,7 @@
     },
     {
         "lanTown ": "台東区",
-        "lanTown": "観光案内板（JR浅草橋駅東口前）",
+        "lanName": "観光案内板（JR浅草橋駅東口前）",
         "lanLatitude": 35.69745,
         "lanLongitude": 139.7862,
         "lanSupplyArea": null,
@@ -1893,7 +1893,7 @@
     },
     {
         "lanTown ": "台東区",
-        "lanTown": "観光案内板（都営浅草線蔵前駅A4出口前）",
+        "lanName": "観光案内板（都営浅草線蔵前駅A4出口前）",
         "lanLatitude": 35.70382,
         "lanLongitude": 139.7915,
         "lanSupplyArea": null,
@@ -1904,7 +1904,7 @@
     },
     {
         "lanTown ": "台東区",
-        "lanTown": "観光案内板（谷中あかじ坂）",
+        "lanName": "観光案内板（谷中あかじ坂）",
         "lanLatitude": 35.72124,
         "lanLongitude": 139.765,
         "lanSupplyArea": null,
@@ -1915,7 +1915,7 @@
     },
     {
         "lanTown ": "台東区",
-        "lanTown": "観光案内板（駒形1丁目）",
+        "lanName": "観光案内板（駒形1丁目）",
         "lanLatitude": 35.70547,
         "lanLongitude": 139.7935,
         "lanSupplyArea": null,
@@ -1926,7 +1926,7 @@
     },
     {
         "lanTown ": "台東区",
-        "lanTown": "観光案内板（駒形2丁目）",
+        "lanName": "観光案内板（駒形2丁目）",
         "lanLatitude": 35.70571,
         "lanLongitude": 139.794,
         "lanSupplyArea": null,
@@ -1937,7 +1937,7 @@
     },
     {
         "lanTown ": "台東区",
-        "lanTown": "観光案内板（大関横丁交差点）",
+        "lanName": "観光案内板（大関横丁交差点）",
         "lanLatitude": 35.72976,
         "lanLongitude": 139.792,
         "lanSupplyArea": null,
@@ -1948,7 +1948,7 @@
     },
     {
         "lanTown ": "台東区",
-        "lanTown": "観光案内板（よみせ通りめぐりんバス停付近）",
+        "lanName": "観光案内板（よみせ通りめぐりんバス停付近）",
         "lanLatitude": 35.72645,
         "lanLongitude": 139.7645,
         "lanSupplyArea": null,
@@ -1959,7 +1959,7 @@
     },
     {
         "lanTown ": "台東区",
-        "lanTown": "観光案内板（谷中霊園付近）",
+        "lanName": "観光案内板（谷中霊園付近）",
         "lanLatitude": 35.72282,
         "lanLongitude": 139.7702,
         "lanSupplyArea": null,
@@ -1970,7 +1970,7 @@
     },
     {
         "lanTown ": "台東区",
-        "lanTown": "ウェルカムボード（東武浅草駅前）",
+        "lanName": "ウェルカムボード（東武浅草駅前）",
         "lanLatitude": 35.71113,
         "lanLongitude": 139.7979,
         "lanSupplyArea": null,
@@ -1981,7 +1981,7 @@
     },
     {
         "lanTown ": "台東区",
-        "lanTown": "東武浅草駅観光バス待合所",
+        "lanName": "東武浅草駅観光バス待合所",
         "lanLatitude": 35.71213,
         "lanLongitude": 139.7987,
         "lanSupplyArea": null,
@@ -1992,7 +1992,7 @@
     },
     {
         "lanTown ": "台東区",
-        "lanTown": "花川戸一丁目施設休憩所（閉鎖中）",
+        "lanName": "花川戸一丁目施設休憩所（閉鎖中）",
         "lanLatitude": 35.71387,
         "lanLongitude": 139.7994,
         "lanSupplyArea": null,
@@ -2003,7 +2003,7 @@
     },
     {
         "lanTown ": "台東区",
-        "lanTown": "旧東京音楽学校奏楽堂",
+        "lanName": "旧東京音楽学校奏楽堂",
         "lanLatitude": 35.71825,
         "lanLongitude": 139.7732,
         "lanSupplyArea": "1階受付付近",
@@ -2014,7 +2014,7 @@
     },
     {
         "lanTown ": "台東区",
-        "lanTown": "老人福祉センター",
+        "lanName": "老人福祉センター",
         "lanLatitude": 35.70953,
         "lanLongitude": 139.7816,
         "lanSupplyArea": "4階事務室付近",
